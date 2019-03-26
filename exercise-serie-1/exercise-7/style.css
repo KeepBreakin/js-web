@@ -1,1 +1,10 @@
-/*Use the .scss file instead!*/
+.col-md-12 {
+  height: 50vw;
+  position: relative;
+}
+
+#btn {
+  position: absolute;
+}
+
+/*# sourceMappingURL=style.css.map */
